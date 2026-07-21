@@ -16,6 +16,20 @@ CAM gives me one clear process:
 
 CAM is fully open source under the [MIT License](LICENSE). You can use, copy, change, and distribute it.
 
+## Interface
+
+![CAM machine and stock settings.](docs/media/cam-machine-setup.png)
+
+Use the machine panel to set the machine, spindle, work area, and stock material.
+
+![CAM tool library.](docs/media/cam-tool-library.png)
+
+Use the tool library to select or add an end mill or V-bit.
+
+![CAM file import panel.](docs/media/cam-file-import.png)
+
+Import a DXF or SVG file. You can also make simple geometry in the workspace.
+
 ## Functions
 
 - Import DXF and SVG geometry.
